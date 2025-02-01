@@ -3,6 +3,7 @@
 
 ## 📌 What’s Inside?
 ✅ LeetCode Problems – Categorized by difficulty: Easy, Medium, Hard
+
 ✅ Optimized Python Solutions – Clean and efficient implementations
 ✅ Explanations & Comments – Clear understanding of logic and approach
 ✅ Continuous Updates – Adding new solutions regularly
