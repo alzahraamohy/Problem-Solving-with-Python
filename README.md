@@ -1,5 +1,5 @@
 # LeetCode Python Solutions 🐍💡
-🚀 This repo contains efficient and well-structured solutions to LeetCode problems, written in Python. Each solution includes clean code, explanations, and optimized approaches.
+🚀 This repo contains efficient and well-structured solutions to LeetCode problems, written in Python. Each solution includes clean code and explanations.
 
 ## 📌 What’s Inside?
 ✅ LeetCode Problems – Categorized by difficulty: Easy, Medium, Hard
